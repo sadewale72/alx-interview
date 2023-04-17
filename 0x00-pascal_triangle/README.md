@@ -2,7 +2,7 @@
 This project contains tasks for working with Pascal's triangle.
 
 ## Tasks To Complete
-**0. Pascal's Triangle**
++ [x] **0. Pascal's Triangle**
 
 [0-pascal_triangle.py](https://github.com/AsuweRich/alx-interview/blob/main/0x00-pascal_triangle/0-pascal_triangle.py) contains a function `def pascal_triangle(n):` that returns a list of lists of integers representing the Pascal's triangle of `n`:
 
