@@ -78,4 +78,4 @@ carrie@ubuntu:~/0x04-utf8_validation$
 
 -   GitHub repository: `alx-interview`
 -   Directory: `0x04-utf8_validation`
--   File: `0-validate_utf8.py`
+-   File: [`0-validate_utf8.py`](https://github.com/AsuweRich/alx-interview/blob/main/0x04-utf8_validation/0-validate_utf8.py)
