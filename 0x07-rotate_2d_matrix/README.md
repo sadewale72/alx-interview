@@ -63,4 +63,4 @@ jessevhedden$
 
 -   GitHub repository: `alx-interview`
 -   Directory: `0x07-rotate_2d_matrix`
--   File: `0-rotate_2d_matrix.py`
+-   File: [`0-rotate_2d_matrix.py`](https://github.com/AsuweRich/alx-interview/blob/main/0x07-rotate_2d_matrix/0-rotate_2d_matrix.py "0-rotate_2d_matrix.py")
