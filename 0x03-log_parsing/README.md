@@ -4,7 +4,6 @@
 AlgorithmPython
 
 -   By Alexa Orrico, Software Engineer at Holberton School
--   Weight: 1
 
 Requirements
 ------------
