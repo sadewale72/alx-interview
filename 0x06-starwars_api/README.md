@@ -3,7 +3,7 @@
 
 AlgorithmPythonAPI
 
--   By Alexa Orrico, Software Engineer at Holberton School
+-   By Adewale Aderoju, Software Engineer at Holberton School
 -   Weight: 1
 
 
@@ -64,7 +64,7 @@ Write a script that prints all characters of a Star Wars movie:
 -   You must use the `request` module
 
 ```
-alexa@ubuntu:~/0x06$ ./0-starwars_characters.js 3
+sadewale@ubuntu:~/0x06$ ./0-starwars_characters.js 3
 Luke Skywalker
 C-3PO
 R2-D2
@@ -85,7 +85,7 @@ Arvel Crynyd
 Wicket Systri Warrick
 Nien Nunb
 Bib Fortuna
-alexa@ubuntu:~/0x06$
+sadewale@ubuntu:~/0x06$
 ```
 
 **Repo:**
